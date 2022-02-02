@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Infy_worldpopulation/static/css/main.64cb537e.css",
+    "main.js": "/Infy_worldpopulation/static/js/main.c29f54cc.js",
+    "static/js/787.8d216baa.chunk.js": "/Infy_worldpopulation/static/js/787.8d216baa.chunk.js",
+    "static/media/logo.png": "/Infy_worldpopulation/static/media/logo.6227b767657e5f8d0c30.png",
+    "index.html": "/Infy_worldpopulation/index.html",
+    "main.64cb537e.css.map": "/Infy_worldpopulation/static/css/main.64cb537e.css.map",
+    "main.c29f54cc.js.map": "/Infy_worldpopulation/static/js/main.c29f54cc.js.map",
+    "787.8d216baa.chunk.js.map": "/Infy_worldpopulation/static/js/787.8d216baa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64cb537e.css",
+    "static/js/main.c29f54cc.js"
+  ]
+}
